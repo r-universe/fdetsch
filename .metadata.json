@@ -1,5 +1,9 @@
 [
   {
+    "package": "MODIS",
+    "oncran": true
+  },
+  {
     "package": "Orcs",
     "oncran": true
   }
