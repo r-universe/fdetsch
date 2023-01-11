@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MODIS"]
-	path = MODIS
-	url = https://github.com/fdetsch/modis
-	shallow = true
-	registered = true
 [submodule "Orcs"]
 	path = Orcs
 	url = https://github.com/fdetsch/orcs
