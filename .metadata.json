@@ -2,8 +2,5 @@
   {
     "package": "Orcs",
     "oncran": true
-  },
-  {
-    "package": "MODIS"
   }
 ]

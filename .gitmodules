@@ -8,8 +8,3 @@
 	url = https://github.com/fdetsch/orcs
 	shallow = true
 	registered = true
-[submodule "MODIS"]
-	path = MODIS
-	url = https://github.com/fdetsch/modis
-	shallow = true
-	registered = true
