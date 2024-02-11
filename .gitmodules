@@ -5,6 +5,3 @@
 [submodule "Orcs"]
 	path = Orcs
 	url = https://github.com/fdetsch/orcs
-[submodule "satellite"]
-	path = satellite
-	url = https://github.com/cran/satellite
